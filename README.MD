@@ -1,7 +1,7 @@
 # Contador - Desafio Javascript DIO
 ___
 
-### Esse projeto consistia em criar um Contador de números. E ao final foram deixado os seguintes desafios:
+### Esse projeto consistia em criar um Contador de números. E ao final foram deixados os seguintes desafios:
 
 - [:heavy_check_mark:] - Tente implementar os eventos usando o método `addEventListener`.
 
